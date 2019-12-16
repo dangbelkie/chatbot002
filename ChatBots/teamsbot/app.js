@@ -3,8 +3,8 @@ var builder = require('botbuilder');
 // Setup Restify Server 
 var server = restify.createServer(); 
 
-var MICROSOFT_APP_ID = 971bba81-b50d-4f9b-ad8b-76a0c78eae46;
-var MICROSOFT_APP_PASSWORD = nclbv7QnJqGqz6x18zkNeMIs:ko/LH/:;
+var MICROSOFT_APP_ID = d04b2753-6a447-4fd5-8680-d02751b7338a;
+var MICROSOFT_APP_PASSWORD = d04b2753-6a447-4fd5-8680-d02751b7338a;
 var PMC_USERNAME = dbelkie@toadfire.com;
 var PMC_PASSWORD = RedRedBlack@@5;
 var PMC_APP_ID = a10a52fae8104c638606c95402f031e9;
